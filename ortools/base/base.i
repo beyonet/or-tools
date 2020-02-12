@@ -20,6 +20,7 @@
 %}
 
 %include "typemaps.i"
+#define SWIGWORDSIZE64
 %include "stdint.i"
 %include "std_string.i"
 

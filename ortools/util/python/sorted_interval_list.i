@@ -13,6 +13,7 @@
 
 // This .i file exposes the sorted_interval_list API.
 
+#define SWIGWORDSIZE64
 %include "stdint.i"
 
 %include "ortools/base/base.i"
